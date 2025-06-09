@@ -1,0 +1,32 @@
+##########################################################################################
+
+J O B S
+
+* EPAM - Cloud & DevOps Internship:
+	~ EPAM - Cloud & DevOps Beginner Training;
+	~ EPAM - Cloud & DevOps Fundamentals Training.
+
+------------------------------------------------------------------------------------------
+
+R O A D M A P
+
+* FOUNDATIONS
+	- CompTIA A+:
+		~ TCM Security, Inc. - Practical Help Desk;
+		~ Professor Messer - CompTIA 220-1101 A+ Training Course;
+		~ Professor Messer - CompTIA 220-1102 A+ Training Course.
+	- Cisco CCNA:
+		~ David Bombal - Free CCNA 200-301 Complete Practical Course.
+	- CompTIA Security+:
+		~ TCM Security, Inc. - Security Operations (SOC) 101;
+		~ Professor Messer - CompTIA SY0-701 Security+ Training Course.
+	- Linux:
+		~ OccupyTheWeb - Linux Basics for Hackers.
+	- Assembly:
+		~ Randall Hyde - The Art of Assembly Language.
+	- C:
+		~ Brian Kernighan, Dennis Ritchie - The C Programming Language.
+	- Python:
+		~ Eric Matthes - Python Crash Course.
+
+##########################################################################################
